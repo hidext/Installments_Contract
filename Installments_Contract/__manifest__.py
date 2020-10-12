@@ -32,10 +32,8 @@ Issues/limitations & ToDos:
     """,
     'version': '12.0.0.2',
     'category': 'Sales',
-    'author': 'www.hidext.com',
-        'price': 19.00, 
-    'currency': 'USD',
-    'license': 'AGPL-3',
+    'author': 'Hidext',
+     'license': 'AGPL-3',
     'depends': [
         'account_analytic_default',
         'analytic',
