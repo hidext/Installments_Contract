@@ -34,8 +34,7 @@ Issues/limitations & ToDos:
     'category': 'Sales',
     'author': 'Hidext',
      'license': 'AGPL-3',
-    "currency": "EUR",
-    "price": 12,
+
     
     'depends': [
         'account_analytic_default',
