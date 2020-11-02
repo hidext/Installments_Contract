@@ -42,6 +42,7 @@ Issues/limitations & ToDos:
         'account',
         'sale',
     ],
+    'images': ['static/description/banner.png'],
     'data': ['static/views.xml'],
     'demo': [],
     'installable': True,
